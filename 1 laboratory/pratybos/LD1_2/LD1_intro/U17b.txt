@@ -1,0 +1,7 @@
+Blue Bay;dvivietis;150
+Blue Bay;trivietis;300
+Moonlight;vienvietis;100
+Moonlight;dvivietis;200
+Excalibur;vientietis;1000
+Barselo Santiago;dvivietis;250
+Moonlight;trivietis;350

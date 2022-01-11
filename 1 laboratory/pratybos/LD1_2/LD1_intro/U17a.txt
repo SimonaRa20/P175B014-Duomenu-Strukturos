@@ -1,0 +1,3 @@
+Ragauskaitė;Simona;Moonlight;dvivietis;7
+Mataitis;Matas;Moonlight;trivietis;5
+Jonaitis;Jonas;Blue Bay;dvivietis;5
